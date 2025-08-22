@@ -1,0 +1,19 @@
+127.0.0.1 adblock.gjtech.net
+127.0.0.1 spam404bl.com
+
+127.0.0.1 109.201.135.46
+
+
+127.0.0.1 fredfiber.no
+127.0.0.1 securemecca.com
+127.0.0.1 1hos.cf
+127.0.0.1 1hosts.cf
+127.0.0.1 everythingisnt.com
+127.0.0.1 vin-plastiks.com
+127.0.0.1 adblock-listefr.com
+127.0.0.1 intr0.cf
+njabl.org
+dutchmega.nl
+juvander.net
+ssl.bblck.me
+allblock.net
